@@ -6,7 +6,7 @@ Web
 ## Purpose
 
 ## Deployment
-
+Deployment has been done
 Sample website with plenty of files for demos
 
 ## How to contribute
