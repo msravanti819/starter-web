@@ -10,5 +10,6 @@ Deployment has been done
 Sample website with plenty of files for demos
 
 ## How to contribute
+Please fork this Repository
 
 2020 Git.Training
