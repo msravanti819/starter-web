@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 Web
 ## Purpose
-Hey
+Hey Sravi
 ## Deployment
 Deployment has been done
 Sample website with plenty of files for demos
